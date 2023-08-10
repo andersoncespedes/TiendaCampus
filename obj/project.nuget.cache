@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vuXG60jQSIR3JBZ0758ch0KSSB6ilHoroP6XCSlwWbn0I31asnZC7FhuIAzxNkdsyCetkF7HdyaC1GtiFAtbA==",
+  "success": true,
+  "projectFilePath": "/home/arteN01-043/Desktop/tienda/tienda.csproj",
+  "expectedPackageFiles": [
+    "/home/arteN01-043/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

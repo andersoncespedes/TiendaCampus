@@ -1,0 +1,15 @@
+/home/arteN01-043/Desktop/tienda/obj/Debug/net7.0/tienda.csproj.AssemblyReference.cache
+/home/arteN01-043/Desktop/tienda/obj/Debug/net7.0/tienda.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-043/Desktop/tienda/obj/Debug/net7.0/tienda.AssemblyInfoInputs.cache
+/home/arteN01-043/Desktop/tienda/obj/Debug/net7.0/tienda.AssemblyInfo.cs
+/home/arteN01-043/Desktop/tienda/obj/Debug/net7.0/tienda.csproj.CoreCompileInputs.cache
+/home/arteN01-043/Desktop/tienda/bin/Debug/net7.0/tienda
+/home/arteN01-043/Desktop/tienda/bin/Debug/net7.0/tienda.deps.json
+/home/arteN01-043/Desktop/tienda/bin/Debug/net7.0/tienda.runtimeconfig.json
+/home/arteN01-043/Desktop/tienda/bin/Debug/net7.0/tienda.dll
+/home/arteN01-043/Desktop/tienda/bin/Debug/net7.0/tienda.pdb
+/home/arteN01-043/Desktop/tienda/obj/Debug/net7.0/tienda.dll
+/home/arteN01-043/Desktop/tienda/obj/Debug/net7.0/refint/tienda.dll
+/home/arteN01-043/Desktop/tienda/obj/Debug/net7.0/tienda.pdb
+/home/arteN01-043/Desktop/tienda/obj/Debug/net7.0/tienda.genruntimeconfig.cache
+/home/arteN01-043/Desktop/tienda/obj/Debug/net7.0/ref/tienda.dll
