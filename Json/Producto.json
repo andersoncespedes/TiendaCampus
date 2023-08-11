@@ -1,0 +1,1 @@
+[{"CodProducto":"pera","Nombre":"pera2","Stock":90,"StockMin":0,"StockMax":200,"PrecioVenta":9000.0,"PrecioCompra":100000.0,"IdCategoria":0},{"CodProducto":"berdura","Nombre":"pasapalo","Stock":2,"StockMin":90,"StockMax":212,"PrecioVenta":1000.0,"PrecioCompra":2000.0,"IdCategoria":1}]

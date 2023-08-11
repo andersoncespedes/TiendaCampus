@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+vuXG60jQSIR3JBZ0758ch0KSSB6ilHoroP6XCSlwWbn0I31asnZC7FhuIAzxNkdsyCetkF7HdyaC1GtiFAtbA==",
+  "dgSpecHash": "hFTNeQEN1RXuXPDdMbIxHCS5GB5RVsr8mIOVezLs5sR5GMe7MpAwnfLSyDl7IyFbB+vl+9cMBh4PTnht2oBOEw==",
   "success": true,
-  "projectFilePath": "/home/arteN01-043/Desktop/tienda/tienda.csproj",
+  "projectFilePath": "/home/skylab-148/Desktop/TiendaCampus/tienda.csproj",
   "expectedPackageFiles": [
-    "/home/arteN01-043/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "/home/skylab-148/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
