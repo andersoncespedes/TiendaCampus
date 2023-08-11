@@ -1,14 +1,12 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using tienda.Clases;
-using System.IO;
 using Newtonsoft.Json;
 namespace tienda;
 
     public static class Env
     {
+        public const string FilePathProduct = @"Json/Producto.json";
+        public const string FilePathCategory = @"Json/Categoria.json";
+
         public static List<T> Serializar<T>(string path){
             try{
                 using (StreamReader jsonStream = File.OpenText(path))
@@ -25,15 +23,15 @@ namespace tienda;
         string json;
         switch (lista){
             case "productos":
-                json = JsonConvert.SerializeObject(productosLista); 
-                File.WriteAllText(@"Json/Producto.json", json);
+                json = JsonConvert.SerializeObject(productosLista,Formatting.Indented); 
+                File.WriteAllText(FilePathProduct, json);
                 break;
             case "categorias":
-                json = JsonConvert.SerializeObject(categoriaLista); 
-                File.WriteAllText(@"Json/Categoria.json", json);
+                json = JsonConvert.SerializeObject(categoriaLista, Formatting.Indented); 
+                File.WriteAllText(FilePathCategory , json);
                 break;
         }
     }
-        public static  List<Producto> productosLista = Serializar<Producto>(@"Json/Producto.json") ?? new();
-        public static  List<Categoria> categoriaLista = Serializar<Categoria>(@"Json/Categoria.json") ?? new();
+        public static  List<Producto> productosLista = Serializar<Producto>(FilePathProduct) ?? new();
+        public static  List<Categoria> categoriaLista = Serializar<Categoria>(FilePathCategory ) ?? new();
     }
